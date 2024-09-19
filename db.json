@@ -1,0 +1,127 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "New Game Releases and Updates",
+      "content": "Discover the latest game releases and exciting updates in the gaming industry.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYOfOk0qUcPTxO9sdMvNQ2ALmDVCEjJQNpA&s",
+      "date": "2024-09-18"
+    },
+    {
+      "id": 2,
+      "title": "Game Review: Cyberpunk 2077",
+      "content": "An in-depth review of the highly anticipated game Cyberpunk 2077.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS030Kq3UjVgHUOKZfYnrCel9OdbM_T9SqylA&s",
+      "date": "2024-09-15"
+    },
+    {
+      "id": 3,
+      "title": "Upcoming Game Expansion",
+      "content": "Exciting new expansion announced for one of the top games this year.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBAb27zSojeUCL2X6V3oJ9XZIYKY9SN0wVCw&s",
+      "date": "2024-09-10"
+    },
+    {
+      "id": 4,
+      "title": "Game Awards 2024",
+      "content": "Get the details on the winners of the Game Awards 2024.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgaoyqg4FMOj8vdFh6mpdvExPTGB538mpmg&s",
+      "date": "2024-09-08"
+    },
+    {
+      "id": 5,
+      "title": "E3 Highlights",
+      "content": "Highlights and key announcements from E3 this year.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZBsO-bE7anxIHw1tCCMfxoUkefbCt3YsbQ&",
+      "date": "2024-09-05"
+    }
+  ],
+  "updates": [
+    {
+      "id": 1,
+      "title": "Top 10 Best-Selling Games of 2021",
+      "content": "A comprehensive list of the top-selling games for the year 2021.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYOfOk0qUcPTxO9sdMvNQ2ALmDVCEjJQNpA&s",
+      "date": "2024-08-30"
+    },
+    {
+      "id": 2,
+      "title": "Latest Patch Notes",
+      "content": "Patch notes for the latest game update, including bug fixes and new features.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYOfOk0qUcPTxO9sdMvNQ2ALmDVCEjJQNpA&s",
+      "date": "2024-08-28"
+    },
+    {
+      "id": 3,
+      "title": "Game Balance Changes",
+      "content": "Details on recent game balance changes and what they mean for players.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYOfOk0qUcPTxO9sdMvNQ2ALmDVCEjJQNpA&s",
+      "date": "2024-08-25"
+    },
+    {
+      "id": 4,
+      "title": "New Game Modes",
+      "content": "Introduction of new game modes in popular games.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYOfOk0qUcPTxO9sdMvNQ2ALmDVCEjJQNpA&s",
+      "date": "2024-08-20"
+    }
+  ],
+  "all": [
+    {
+      "id": 1,
+      "title": "Stay Updated with GameNot",
+      "content": "GameNot is your go-to source for the latest news and information on the gaming industry. We provide up-to-date coverage on games, gaming companies, and consoles, keeping you in the loop with all the exciting developments.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYOfOk0qUcPTxO9sdMvNQ2ALmDVCEjJQNpA&s",
+      "date": "2024-09-18"
+    },
+    {
+      "id": 2,
+      "title": "Gaming Trends of 2024",
+      "content": "Explore the major trends shaping the gaming industry in 2024.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYOfOk0qUcPTxO9sdMvNQ2ALmDVCEjJQNpA&s",
+      "date": "2024-09-15"
+    },
+    {
+      "id": 3,
+      "title": "Interview with Game Developers",
+      "content": "Insights and interviews with developers of top gaming titles.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYOfOk0qUcPTxO9sdMvNQ2ALmDVCEjJQNpA&s",
+      "date": "2024-09-10"
+    },
+    {
+      "id": 4,
+      "title": "Upcoming Game Releases",
+      "content": "A look at the most anticipated game releases coming soon.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYOfOk0qUcPTxO9sdMvNQ2ALmDVCEjJQNpA&s",
+      "date": "2024-09-05"
+    },
+    {
+      "id": 5,
+      "title": "Game Console Reviews",
+      "content": "Reviews and comparisons of the latest gaming consoles.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYOfOk0qUcPTxO9sdMvNQ2ALmDVCEjJQNpA&s",
+      "date": "2024-09-01"
+    },
+    {
+      "id": 6,
+      "title": "Gaming Events Recap",
+      "content": "A recap of the major gaming events and announcements.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYOfOk0qUcPTxO9sdMvNQ2ALmDVCEjJQNpA&s",
+      "date": "2024-08-28"
+    },
+    {
+      "id": 7,
+      "title": "New VR Games",
+      "content": "A roundup of the most exciting new virtual reality games.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYOfOk0qUcPTxO9sdMvNQ2ALmDVCEjJQNpA&s",
+      "date": "2024-08-25"
+    },
+    {
+      "id": 8,
+      "title": "Game Modding Community",
+      "content": "Explore the creative world of game modding and its impact on gaming.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYOfOk0qUcPTxO9sdMvNQ2ALmDVCEjJQNpA&s",
+      "date": "2024-08-20"
+    }
+  ]
+}
